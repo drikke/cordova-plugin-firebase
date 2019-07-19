@@ -6,7 +6,7 @@
     "url": "git+https://github.com/arnesson/cordova-plugin-firebase.git"
   },
   "name": "@drikke/drikke-firebase-fix",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
     "id": "cordova-plugin-firebase",
