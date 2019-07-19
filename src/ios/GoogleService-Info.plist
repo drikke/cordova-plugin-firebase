@@ -2,5 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>287772797863-t80nlma5kdv0srb0iuvkuhie8v3s5u6e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.287772797863-t80nlma5kdv0srb0iuvkuhie8v3s5u6e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAQQ9i2g2j1pt80dO230TzpRGkeEF7XsM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>287772797863</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.playdrikke.drikke.playdrikke</string>
+	<key>PROJECT_ID</key>
+	<string>drikke-notificaties</string>
+	<key>STORAGE_BUCKET</key>
+	<string>drikke-notificaties.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:287772797863:ios:366b7ad8d1ba06ff</string>
+	<key>DATABASE_URL</key>
+	<string>https://drikke-notificaties.firebaseio.com</string>
 </dict>
 </plist>

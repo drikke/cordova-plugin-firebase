@@ -1,39 +1,45 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "287772797863",
+    "firebase_url": "https://drikke-notificaties.firebaseio.com",
+    "project_id": "drikke-notificaties",
+    "storage_bucket": "drikke-notificaties.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:287772797863:android:366b7ad8d1ba06ff",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.playdrikke.drikke.playdrikke"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "287772797863-8u2aqi65houoac7si26c4gu6fb3ds0hv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyBtnTjx6ZmLCo4Ln1TK1nbQQF2fQy7Ud90"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287772797863-8u2aqi65houoac7si26c4gu6fb3ds0hv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287772797863-t80nlma5kdv0srb0iuvkuhie8v3s5u6e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.playdrikke.drikke.playdrikke",
+                "app_store_id": "1470585550"
+              }
+            }
+          ]
         }
       }
     }
