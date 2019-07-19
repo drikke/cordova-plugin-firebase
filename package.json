@@ -1,13 +1,11 @@
 {
-  "author": {
-    "name": "Robert Arnesson"
-  },
+  "author": "Robert Arnesson",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arnesson/cordova-plugin-firebase"
+    "url": "git+https://github.com/arnesson/cordova-plugin-firebase.git"
   },
-  "name": "cordova-plugin-firebase",
+  "name": "@drikke/drikke-firebase-fix",
   "version": "2.0.5",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
@@ -45,5 +43,14 @@
     "test:cordova@7.1.0:browser@5.0.3": "bash ./test/test-default.sh 7.1.0 browser 5.0.3",
     "test:cordova@8.0.0:browser@5.0.3": "bash ./test/test-default.sh 8.0.0 browser 5.0.3"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/arnesson/cordova-plugin-firebase/issues"
+  },
+  "homepage": "https://github.com/arnesson/cordova-plugin-firebase#readme",
+  "main": "bump-version.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  }
 }

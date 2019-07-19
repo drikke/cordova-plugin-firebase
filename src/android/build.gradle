@@ -27,5 +27,3 @@ cdvPluginPostBuildExtras.add({
     apply plugin: 'com.google.gms.google-services'
     apply plugin: 'io.fabric'
 })
-
-apply plugin: 'com.google.gms.google-services'  // Google Play services Gradle plugin
